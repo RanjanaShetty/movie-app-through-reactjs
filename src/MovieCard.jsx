@@ -1,6 +1,4 @@
-// MovieCard.jsx
 import React from 'react';
-
 const MovieCard = ({ movie }) => {
   const { Title, Poster, Year, Type } = movie;
 
